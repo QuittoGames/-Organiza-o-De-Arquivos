@@ -21,8 +21,6 @@ Bem-vindo ao Organizador de Arquivos! Este projeto foi desenvolvido para organiz
 2. Entre no repositorio:
   ```sh
   cd Organiza-o-De-Arquivos OU cd -Organiza-o-De-Arquivos
-3. Run Code:
-  ```sh
-  python index.py
+   ```sh
 
 
